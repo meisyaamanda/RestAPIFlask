@@ -2,4 +2,5 @@
 /__pycache__
 /FETAL_HEALTH.csv
 /rf_pickle
-/Riset_Janin_prototype
+/Riset_Janin_prototype.ipynb
+/model.pkl
